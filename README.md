@@ -16,7 +16,3 @@ I'm a passionate second year undergraduate from Sri Lanka, with enthusiasm for t
 <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProSachintha&theme=nord&hide=jupyter%20notebook,hack"/>
 <img height="225" src="https://streak-stats.demolab.com?user=ProSachintha&theme=nord&mode=weekly&count_private=true"/>
  </div>
-
-<h3 align="left">Holopin Board:</h3>
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=ProSachintha&style=for-the-badge&color=blueviolet)]()
