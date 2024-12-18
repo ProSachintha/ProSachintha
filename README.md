@@ -1,4 +1,4 @@
-[![Sathya's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/sathyahemakanthi/)
+[![Sachintha's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/sathyahemakanthi/)
 
 ### Hello, I'm Sachintha 👋
 
